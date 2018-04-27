@@ -1,4 +1,7 @@
 {
-    "wrap_width": 119,
+    "wrap_width": 0,
+    "line_numbers": true, // 显示行号
+    "highlight_line": true, // 光标所在行高亮
+    "draw_centered": false, // 不自动居中，如果发现一行中内容不多，就会出现左侧到行号之前有大面积空白
 	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme"
 }
